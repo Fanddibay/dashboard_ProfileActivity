@@ -365,10 +365,6 @@ var imagesStorageOption = {
       },
     },
   },
-  xaxis: {
-    type: "text",
-    categories: ["Dataset", "Code", "Feature Stores", "Model Zoo", "File"],
-  },
   legend: {
     position: "right",
     offsetY: 40,
@@ -440,10 +436,6 @@ var xlsStorageOption = {
         },
       },
     },
-  },
-  xaxis: {
-    type: "text",
-    categories: ["Dataset", "Code", "Feature Stores", "Model Zoo", "File"],
   },
   legend: {
     position: "right",
@@ -517,10 +509,6 @@ var jsonStorageOption = {
       },
     },
   },
-  xaxis: {
-    type: "text",
-    categories: ["Dataset", "Code", "Feature Stores", "Model Zoo", "File"],
-  },
   legend: {
     position: "right",
     offsetY: 40,
@@ -593,10 +581,7 @@ var csvStorageOption = {
       },
     },
   },
-  xaxis: {
-    type: "text",
-    categories: ["Dataset", "Code", "Feature Stores", "Model Zoo", "File"],
-  },
+
   legend: {
     position: "right",
     offsetY: 40,
@@ -668,10 +653,6 @@ var videosStorageOption = {
         },
       },
     },
-  },
-  xaxis: {
-    type: "text",
-    categories: ["Dataset", "Code", "Feature Stores", "Model Zoo", "File"],
   },
   legend: {
     position: "right",
